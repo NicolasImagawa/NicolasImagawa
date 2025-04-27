@@ -6,8 +6,8 @@ Currently, I'm looking for a role in Data Engineering with solid SQL, python and
 
 ## Data stack:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
-![Uploading k<svg width="150" height="150" viewBox="0 0 513 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="25" height="25" />
+![Uploading k<svg width="25" height="25" viewBox="0 0 513 512" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.5625 57.2373C0.5625 25.626 26.1885 0 57.7999 0H455.325C486.936 0 512.562 25.626 512.562 57.2374V454.763C512.562 486.374 486.936 512 455.325 512H57.7998C26.1885 512 0.5625 486.374 0.5625 454.763V57.2373Z" fill="#2C0059"/>
 <path d="M243.988 214.886C250.931 207.942 262.189 207.942 269.133 214.886L297.675 243.428C304.619 250.372 304.619 261.63 297.675 268.573L269.133 297.116C262.189 304.06 250.931 304.06 243.988 297.116L215.445 268.573C208.501 261.63 208.501 250.372 215.445 243.428L243.988 214.886Z" fill="#A950FF"/>
 <path d="M375.45 214.658C382.269 207.839 393.326 207.839 400.145 214.658L429.138 243.651C435.957 250.47 435.957 261.526 429.138 268.346L400.145 297.338C393.326 304.158 382.269 304.158 375.45 297.338L346.458 268.346C339.638 261.526 339.638 250.47 346.458 243.651L375.45 214.658Z" fill="#A950FF"/>
@@ -18,10 +18,10 @@ Currently, I'm looking for a role in Data Engineering with solid SQL, python and
 <path d="M284.65 365.264C300.163 380.777 300.163 405.928 284.65 421.441C269.138 436.954 243.987 436.954 228.474 421.441C212.961 405.928 212.961 380.777 228.474 365.264C243.987 349.752 269.138 349.752 284.65 365.264Z" fill="#F62E76"/>
 </svg>
 estra.svg…]()
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
-<img width="150" alt="dbt-signature_tm" src="https://github.com/user-attachments/assets/ea2f19e2-39ad-4445-a7f3-468e874e97e0" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="25" height="25" />
+<img width="150" alt="dbt-signature_tm" src="https://github.com/user-attachments/assets/ea2f19e2-39ad-4445-a7f3-468e874e97e0" width="25" height="25" />
 
 ## Tools and programming languages:
 
