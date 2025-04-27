@@ -7,7 +7,7 @@ Currently, I'm looking for a role in Data Engineering with solid SQL, python and
 ## Data stack:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="45" height="45" />
-![kestra](https://github.com/user-attachments/assets/6a71c998-d156-4655-a253-0f47eb152bfb)<svg width="45" height="45" viewBox="0 0 513 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+< img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkestra.io%2Fdocs%2Finstallation&psig=AOvVaw0eZiZ5WR6yR0XuwjzTIcaD&ust=1745863223320000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDh88jl-IwDFQAAAAAdAAAAABAE" width="45" height="45">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="45" height="45" />
