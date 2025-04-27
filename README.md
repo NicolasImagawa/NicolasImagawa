@@ -24,7 +24,7 @@ Currently, I'm looking for a role in Data Engineering with solid SQL, python and
   </div>
   <div>
     <br><strong>Transformation</strong><br>
-    <img src="https://github.com/user-attachments/assets/2a01a309-085c-451c-a794-3cc23d5db9c2" width="130" height="60" />
+    <img src="https://github.com/user-attachments/assets/2a01a309-085c-451c-a794-3cc23d5db9c2" width="120" height="50" />
 
   </div>
   <div>
