@@ -9,7 +9,7 @@ I’m now seeking a role where I can apply my domain expertise in energy data an
 
 ### 🛠️ Data Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="60" height="60" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50" style="padding-right: 15px;"/><img src="https://github.com/user-attachments/assets/79abfbb2-b885-4887-9c98-a8cd239c3ad3" width="50" height="50" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" height="50" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="padding-right: 15px;" />
-<img src="https://github.com/user-attachments/assets/2a01a309-085c-451c-a794-3cc23d5db9c2" width="100" height="50"/>
+<img src="https://github.com/user-attachments/assets/2a01a309-085c-451c-a794-3cc23d5db9c2" width="110" height="50"/>
 
 
 ### Other tools and programming languages
