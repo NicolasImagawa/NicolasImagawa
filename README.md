@@ -9,14 +9,14 @@ Currently, I'm looking for a role in Data Engineering with solid SQL, python and
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <div>
     <strong>Orchestration</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="45" height="45" />
-    <img src="https://kestra.io/ui/logo.svg" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="70" height="70" />
+    <img src="https://kestra.io/ui/logo.svg" width="70" height="70" />
   </div>
   <div>
     <strong>SQL & DDL</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="45" height="45" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="70" height="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="70" height="70" />
   </div>
   <div>
     <strong>Transformation</strong><br>
