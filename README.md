@@ -26,7 +26,7 @@ I’m now seeking a role where I can apply my domain expertise in energy data an
 ### Contact
 Feel free to contact me at:
 📫 - nsimagawa@gmail.com
-
+💼 - [My linkedin page](https://www.linkedin.com/in/nicolas-imagawa/)
 <!--
 **NicolasImagawa/NicolasImagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
