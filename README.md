@@ -24,7 +24,7 @@ I’m now seeking a role where I can apply my domain expertise in energy data an
 - **Mandarin** (Basic)
 
 ### Contact
-Feel free to contact me at:
+Feel free to contact me at:\
 📫 - nsimagawa@gmail.com\
 💼 - [My linkedin page](https://www.linkedin.com/in/nicolas-imagawa/)
 <!--
