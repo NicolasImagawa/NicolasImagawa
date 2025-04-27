@@ -9,7 +9,7 @@ Currently, I'm looking for a role in Data Engineering with solid SQL, python and
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <div>
     <br><strong>Orchestration</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="70" height="70" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="90" height="90" />
     <img src="https://github.com/user-attachments/assets/79abfbb2-b885-4887-9c98-a8cd239c3ad3" width="70" height="70" />
   </div>
   <div/>
