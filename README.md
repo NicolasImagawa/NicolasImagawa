@@ -11,15 +11,15 @@ I’m now seeking a role where I can apply my domain expertise in energy data an
 <img src="https://github.com/user-attachments/assets/2a01a309-085c-451c-a794-3cc23d5db9c2" width="100" height="45"/>
           
 ### Other tools and programming languages:
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="45" height="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="45" height="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="45" height="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" />
 <img src="https://github.com/user-attachments/assets/57cec3dd-f0cb-46b6-b84d-b4eaf8824e38" width="45" height="45">
 
 ### 🌐 Languages  
-- **Portuguese** (Native) ██████████  
-- **English** (Advanced) ████████░░  
-- **German** (Intermediate) █████░░░░░  
-- **Mandarin** (Basic) ██░░░░░░░░  
+- **Portuguese** (Native)
+- **English** (Advanced)
+- **German** (Intermediate)
+- **Mandarin** (Basic)
 
 ### Contact
 Feel free to contact me at:
