@@ -1,8 +1,10 @@
 ## Hi there 👋, my name is Nicolas Imagawa
 
-I have a bachelor's degree in Electrical Engineering from Unicamp and have extensively worked on the energy field, especially with data regarding power plants all over Brazil.
+I hold a Bachelor’s degree in Electrical Engineering from Unicamp, with hands-on experience in energy-sector data analysis, including larger power plant all over Brazil.
 
 Currently, I'm looking for a role in Data Engineering with solid SQL, python and Microsoft Excel foundations and I have learned data engineering tools such as dbt, Apache Airflow and so on. Also, I already learned core concepts such as ELT and ELT pipelines, data warehousing and finished excellent courses such as the Data Talks Club Data Engineering Introduction.
+
+I’m now seeking a role where I can apply my domain expertise in energy data and technical skills in DE tools to solve many data challenges.
 
 ### 🛠️ Data Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="70" height="70" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="60" height="60" style="padding-right: 15px;"/><img src="https://github.com/user-attachments/assets/79abfbb2-b885-4887-9c98-a8cd239c3ad3" width="60" height="60" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60" height="60" style="padding-right: 15px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" style="padding-right: 15px;" />
