@@ -31,6 +31,41 @@ Currently, I'm looking for a role in Data Engineering with solid SQL, python and
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70" height="70" />
   </div>
 </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; text-align: center;">
+  <!-- Orchestration -->
+  <div style="flex: 1 1 150px; min-width: 150px;">
+    <strong>Orchestration</strong><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="80" height="80" />
+    <img src="https://github.com/user-attachments/assets/79abfbb2-b885-4887-9c98-a8cd239c3ad3" width="60" height="60" style="margin-left: 10px;" />
+  </div>
+  
+  <!-- SQL & DDL -->
+  <div style="flex: 1 1 150px; min-width: 150px;">
+    <strong>SQL & DDL</strong><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
+  </div>
+  
+  <!-- Data Warehousing -->
+  <div style="flex: 1 1 150px; min-width: 150px;">
+    <strong>Data Warehousing</strong><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="70" height="70" />
+  </div>
+  
+  <!-- Transformation -->
+  <div style="flex: 1 1 150px; min-width: 150px;">
+    <strong>Transformation</strong><br>
+    <img src="https://github.com/user-attachments/assets/2a01a309-085c-451c-a794-3cc23d5db9c2" width="100" height="45" style="margin-top: 10px;" />
+  </div>
+  
+  <!-- Programming Languages -->
+  <div style="flex: 1 1 150px; min-width: 150px;">
+    <strong>Programming</strong><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" />
+  </div>
+</div>
           
 ### Other tools and programming languages:
 
