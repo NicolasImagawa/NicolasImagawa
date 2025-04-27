@@ -1,4 +1,4 @@
-![kestra](https://github.com/user-attachments/assets/8f61f7f7-3695-4470-a624-b295bd570471)## Hi there 👋, my name is Nicolas Imagawa
+## Hi there 👋, my name is Nicolas Imagawa
 
 I have a bachelor's degree in Electrical Engineering from Unicamp and have extensively worked on the energy field, especially with data regarding power plants all over Brazil.
 
@@ -21,7 +21,7 @@ estra.svg…]()
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="25" height="25" />
-<img width="150" alt="dbt-signature_tm" src="https://github.com/user-attachments/assets/ea2f19e2-39ad-4445-a7f3-468e874e97e0" width="25" height="25" />
+<img alt="dbt-signature_tm" src="https://github.com/user-attachments/assets/ea2f19e2-39ad-4445-a7f3-468e874e97e0" width="25" height="50" />
 
 ## Tools and programming languages:
 
