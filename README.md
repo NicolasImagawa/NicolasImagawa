@@ -12,13 +12,13 @@ Currently, I'm looking for a role in Data Engineering with solid SQL, python and
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="90" height="90" />
     <img src="https://github.com/user-attachments/assets/79abfbb2-b885-4887-9c98-a8cd239c3ad3" width="70" height="70" />
   </div>
-  <div/>
+  <div>
     <br><strong>SQL & DDL</strong><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="70" height="70" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="70" height="70" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" />
   </div>
-    <div/>
+  <div>
     <br><strong>Data warehousing</strong><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="70" height="70" />
   </div>
