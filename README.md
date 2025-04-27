@@ -21,7 +21,7 @@ Currently, I'm looking for a role in Data Engineering with solid SQL, python and
     <div/>
     <br><strong>Data warehousing</strong><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="90" height="90" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="90" height="90" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="70" height="70" />
   </div>
   <div>
     <br><strong>Transformation</strong><br>
