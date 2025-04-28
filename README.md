@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Nicolas Imagawa
 
-I hold a Bachelor’s degree in Electrical Engineering from Unicamp, with hands-on experience in energy-sector data analysis, including larger power plant all over Brazil.
+I hold a Bachelor’s degree in Electrical Engineering from Unicamp, with hands-on experience in energy-sector data analysis, including larger power plants all over Brazil.
 
 Currently, I'm looking for a role in Data Engineering with solid SQL, python and Microsoft Excel foundations and I have learned data engineering tools such as dbt, Apache Airflow and so on. Also, I already learned core concepts such as ELT and ELT pipelines, data warehousing and finished excellent courses such as the Data Talks Club Data Engineering Introduction.
 
