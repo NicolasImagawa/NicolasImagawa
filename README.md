@@ -21,7 +21,7 @@ I’m now seeking a role where I can apply my domain expertise in energy data an
 - **Portuguese** (Native)
 - **English** (Advanced)
 - **German** (Intermediate)
-- ** Chinese Mandarin** (Basic)
+- **Chinese Mandarin** (Basic)
 
 ### 💬 Contact
 Feel free to contact me at:\
